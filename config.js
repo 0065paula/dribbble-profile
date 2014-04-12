@@ -3,8 +3,8 @@
 
 dribbbox.config = {
 
-  dribbble_username : "bdc",
-  short_description : "User interface and icon designer.",
-  email_address     : "ben@deaxon.com"
+  dribbble_username : "0065paula",
+  short_description : "A foolish and hungry designer.",
+  email_address     : "0065paula@gmail.com"
 
 }
